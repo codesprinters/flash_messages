@@ -1,0 +1,8 @@
+A very very simple library that allows for safer embedding of html in flash messages.
+
+It allows explicit marking of parts of message as html markup; all parts not marked as such
+will be escaped with the standard rails h() helper
+
+Author: Paweł Stradomski <pstradomski@codesprinters.com>
+
+(C) Codesprinters, 2008. Released under MIT licence.
